@@ -20,8 +20,8 @@
    * MIT License
 * 
    * Create By Dika Ardnt.
-   * Edited By Alien-Alfa
-   * Copyright (c) 2021 Alien-Alfa.
+   * Edited By Amal Rockz
+   * Copyright (c) 2023 Amal Rockz.
 * 
    * Permission is hereby granted, free of charge, to any person obtaining a copy
    * of this software and associated documentation files (the "Software"), to deal
@@ -318,7 +318,7 @@ Hey @${num.split("@")[0]}
 \n ${metadata.desc}
 
 
-*Powered by 𝐀𝐥𝐢𝐞𝐧-𝐀𝐥𝐟𝐚*
+*Powered by Amal Rockz
 `
 
 
@@ -943,7 +943,7 @@ const html = `
   </head>
   <body>
     <section>
-    Hello from AlienAlfa!
+    Hello from AmalRockz!
     </section>
   </body>
 </html>
